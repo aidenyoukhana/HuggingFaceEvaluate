@@ -1,4 +1,4 @@
-# Evaluate Framework
+# 🤗 Evaluate Framework 
 
 A Python framework for evaluating machine learning models using Hugging Face Evaluate, inspired by Azure AI Foundry evaluation patterns.
 
